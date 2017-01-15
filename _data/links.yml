@@ -1,9 +1,9 @@
 # links section data
-- last_name: Celine
-  first_name:
-  desc: 'Painter.'
-  website: 'http://angular.jack003.com'
-  email: '805963294@qq.com'
+- last_name: Yadav
+  first_name: Mahesh Kumar
+  desc: 'Programmer'
+  website: 'https://maheshyadav.com.np/'
+  email: 'contact@maheshyadav.com.np'
 
 - last_name: Donate
   first_name: Jalpc
